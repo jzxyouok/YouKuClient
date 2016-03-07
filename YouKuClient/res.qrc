@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>videosource.htm</file>
+        <file>search.png</file>
+        <file>youku.png</file>
+    </qresource>
+</RCC>
